@@ -1,1 +1,1 @@
-install.packages(c("ggplot2","dplyr","tidyr","mgcv","lubridate","tidyverse","rmarkdown","httr","shinydashboard","leaflet","readxl"))
+install.packages(c("ggplot2","dplyr","tidyr","mgcv","lubridate","tidyverse","rmarkdown","httr","shinydashboard","leaflet","readxl","rio"))
