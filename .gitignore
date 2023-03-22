@@ -1,3 +1,9 @@
+#
+*.tar
+*.zip
+*.nc
+
+
 # History files
 .Rhistory
 .Rapp.history
